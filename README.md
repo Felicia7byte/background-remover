@@ -2,15 +2,22 @@
 # Features
 
 Upload JPG, JPEG, or PNG images
+
 Automatically remove image backgrounds
+
 Preview the original and processed images
+
 Download the result as a transparent PNG
 # Tech Stack
 
 Python
+
 Streamlit
+
 rembg
+
 U²-NetP
+
 Pillow
 # How It Works
 Upload Image -> U²-NetP Model -> Foreground Segmentation -> Background Removal -> Transparent PNG
