@@ -10,15 +10,7 @@ Preview the original and processed images
 Download the result as a transparent PNG
 # Tech Stack
 
-Python
-
-Streamlit
-
-rembg
-
-U²-NetP
-
-Pillow
+Python, Streamlit, rembg, U²-NetP, Pillow
 # How It Works
 Upload Image -> U²-NetP Model -> Foreground Segmentation -> Background Removal -> Transparent PNG
 
